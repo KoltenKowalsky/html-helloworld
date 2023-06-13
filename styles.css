@@ -1,0 +1,22 @@
+h1 {
+    color: #0e2378; font-weight: bold;
+}
+h2 {
+    color: #c4c5c9; font-style: italic; font-size: smaller; text-align: center;
+}
+h3 {
+    color:#0e2378; font-weight:bolder;
+}
+h4 {
+    color:#0e2378
+}
+.special {
+    color: rgb(95, 37, 37);
+    font-weight: bold; text-align:center
+  }
+.bold {
+    font-weight: bold;
+}  
+.underline {
+    font-style:italic; color:rgb(178, 133, 20)
+}  
