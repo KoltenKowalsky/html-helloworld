@@ -1,8 +1,13 @@
+body {
+    background-color: rgb(238, 240, 240);
+    margin-right: 20%;
+    margin-left: 20%; 
+}
 h1 {
     color: #0e2378; font-weight: bold;
 }
 h2 {
-    color: #c4c5c9; font-style: italic; font-size: smaller; text-align: center;
+    color: #848485; font-style: italic; font-size: smaller; text-align: center;
 }
 h3 {
     color:#0e2378; font-weight:bolder;
@@ -11,12 +16,28 @@ h4 {
     color:#0e2378
 }
 .special {
-    color: rgb(95, 37, 37);
-    font-weight: bold; text-align:center
-  }
+    color: white;
+    font-weight: bold; text-align:center;
+    background-color: black;
+    padding: 30px
+}
 .bold {
     font-weight: bold;
 }  
 .underline {
     font-style:italic; color:rgb(178, 133, 20)
 }  
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+.unpack {
+    border: 1px solid black;
+    align-items: center;
+}
+.practice {
+    border: 1px solid black;
+    align-items: center;
+    
+   
+
+
