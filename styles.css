@@ -4,6 +4,7 @@ body {
 
 h1 {
     color: #0e2378; font-weight: bold;
+    margin: 20px;
 }
 
 h2 {
@@ -35,7 +36,7 @@ h5 {
     text-size-adjust: auto;
     text-align: justify;
     margin-left: 15%;
-    margin-right: 10%;
+    margin-right: 20%;
 }
     
 .centerimg {
