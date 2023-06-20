@@ -1,11 +1,15 @@
 body {
     background-color: rgb(238, 240, 240);
+    margin: 0px 60px;
 }
 
 h1 {
-    color: #0e2378; font-weight: bold;
-    margin: 20px;
+    color: whitesmoke; font-weight: bold;
+    background-color: #213555;
+    padding: 30px
 }
+
+
 
 h2 {
     color: #848485; font-style: italic; font-size: smaller; text-align: center;
@@ -31,18 +35,6 @@ h5 {
     font-family: 'Open Sans', sans-serif;
 }
 
-.sitelayout {
-    text-rendering: optimizeLegibility;
-    text-size-adjust: auto;
-    text-align: justify;
-    margin-left: 15%;
-    margin-right: 20%;
-}
-    
-.centerimg {
-    padding: 0px 15%;
-}   
-
 .special {
     color: white;
     font-weight: bold; text-align:center;
@@ -50,3 +42,11 @@ h5 {
     padding: 30px
 }
 
+/* Default styles for the image */
+.image-container img {
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+
+  }
+  
